@@ -14,7 +14,7 @@
 
 简体拼写d
 
-![0](https://github.com/chinanf-boy/learngit/blob/master/imgs/0.png)
+![0](https://github.com/chinanf-boy/learngit/blob/master/imgs/2.png)
 
 然后我 backspace 
 
