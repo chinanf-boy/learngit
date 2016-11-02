@@ -18,6 +18,6 @@
 
 然后我 backspace 
 
-![1](https://github.com/chinanf-boy/learngit/blob/master/imgs/1.png)
+![1](https://github.com/chinanf-boy/learngit/blob/master/imgs/1.PNG)
 
 就多了 d 个d
